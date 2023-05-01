@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Microservices_Eureka_APIGATEWAY</name>
+	<comment></comment>
+	<projects>
+		<project>API_Gateway</project>
+		<project>CitizenService</project>
+		<project>EurekaServer</project>
+		<project>VaccinationCenter</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
